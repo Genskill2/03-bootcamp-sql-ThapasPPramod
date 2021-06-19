@@ -31,7 +31,7 @@ values (
 ), (
 "The City and The City", 5 
 ), (
-"The Great War for Civilsation", 6 
+"The Great War for Civilisation", 6 
 );
 
 
